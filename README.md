@@ -69,8 +69,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fengshao1227&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fengshao1227&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fengshao1227&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fengshao1227&theme=tokyonight" />
 </p>
 
 <p align="center">
