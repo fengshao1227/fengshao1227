@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=fengshao1227&style=flat-square&color=58A6FF" />
 </p>
 
-Security researcher & full-stack engineer. Creator of **[CCG Workflow](https://github.com/fengshao1227/ccg-workflow)** — orchestrating Claude + Codex + Gemini to work in parallel, not in isolation.
+Full-stack engineer, obsessively detail-oriented. Creator of **[CCG Workflow](https://github.com/fengshao1227/ccg-workflow)** — orchestrating Claude + Codex + Gemini to work in parallel, not in isolation.
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
